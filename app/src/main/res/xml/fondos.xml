@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen
+        android:key="pInicio"
+        android:title="Pantalla de inicio"
+        />
+    <PreferenceScreen
+        android:key="pBloqueo"
+        android:title="Pantalla de bloqueo"
+        />
+    <PreferenceScreen
+        android:key="ambas"
+        android:title="Pantalla de inicio y bloqueo"
+        />
+</PreferenceScreen>
